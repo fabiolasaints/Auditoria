@@ -1,0 +1,14 @@
+C:\Users\sfabi\repositorio\API_Auditoria\Auditoria\bin\Debug\netcoreapp2.1\Auditoria.deps.json
+C:\Users\sfabi\repositorio\API_Auditoria\Auditoria\bin\Debug\netcoreapp2.1\Auditoria.runtimeconfig.json
+C:\Users\sfabi\repositorio\API_Auditoria\Auditoria\bin\Debug\netcoreapp2.1\Auditoria.runtimeconfig.dev.json
+C:\Users\sfabi\repositorio\API_Auditoria\Auditoria\bin\Debug\netcoreapp2.1\Auditoria.dll
+C:\Users\sfabi\repositorio\API_Auditoria\Auditoria\bin\Debug\netcoreapp2.1\Auditoria.pdb
+C:\Users\sfabi\repositorio\API_Auditoria\Auditoria\obj\Debug\netcoreapp2.1\Auditoria.csprojAssemblyReference.cache
+C:\Users\sfabi\repositorio\API_Auditoria\Auditoria\obj\Debug\netcoreapp2.1\Auditoria.csproj.CoreCompileInputs.cache
+C:\Users\sfabi\repositorio\API_Auditoria\Auditoria\obj\Debug\netcoreapp2.1\Auditoria.RazorAssemblyInfo.cache
+C:\Users\sfabi\repositorio\API_Auditoria\Auditoria\obj\Debug\netcoreapp2.1\Auditoria.RazorAssemblyInfo.cs
+C:\Users\sfabi\repositorio\API_Auditoria\Auditoria\obj\Debug\netcoreapp2.1\Auditoria.AssemblyInfoInputs.cache
+C:\Users\sfabi\repositorio\API_Auditoria\Auditoria\obj\Debug\netcoreapp2.1\Auditoria.AssemblyInfo.cs
+C:\Users\sfabi\repositorio\API_Auditoria\Auditoria\obj\Debug\netcoreapp2.1\Auditoria.RazorTargetAssemblyInfo.cache
+C:\Users\sfabi\repositorio\API_Auditoria\Auditoria\obj\Debug\netcoreapp2.1\Auditoria.dll
+C:\Users\sfabi\repositorio\API_Auditoria\Auditoria\obj\Debug\netcoreapp2.1\Auditoria.pdb
