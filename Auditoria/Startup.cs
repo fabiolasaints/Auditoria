@@ -34,7 +34,7 @@ namespace Auditoria
     // Adicione após AddMvc
     services.AddSwaggerGen(c =>
     {
-        c.SwaggerDoc("v1", new Info { Title = "API_Auditoria", Version = "v1" });
+        c.SwaggerDoc("v1", new Info { Title = "Auditoria", Version = "v1" });
         
    
     });
